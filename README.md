@@ -20,10 +20,10 @@
 
  Using data analysis proccess to explore a data set answer questions we were interested on.
 
-> 1-Clean data
+> **1-Clean data.**
 
-> 2-Explore data
+> **2-Explore data.**
 
-> 3-Answer questions by visualize the data
+> **3-Answer questions by visualize the data.**
 
-> 4-Make conclusions
+> **4-Make conclusions.**
